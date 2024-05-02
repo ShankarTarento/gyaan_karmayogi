@@ -16,7 +16,7 @@ class ViewAllCourseCard extends StatelessWidget {
       margin: const EdgeInsets.only(top: 16),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(12),
-        color: Colors.black,
+        color: Colors.white,
       ),
       width: MediaQuery.of(context).size.width,
       child: Column(
