@@ -149,7 +149,7 @@ class ViewAllCourseCard extends StatelessWidget {
                           fontWeight: FontWeight.w400,
                         ),
                       )
-                    : SizedBox(),
+                    : const SizedBox(),
                 const SizedBox(
                   height: 8,
                 ),
@@ -172,11 +172,15 @@ class ViewAllCourseCard extends StatelessWidget {
                     resource.source != null
                         ? SizedBox(
                             width: MediaQuery.of(context).size.width / 1.5,
-                            child: Text(resource.source,
-                                style: GoogleFonts.lato(
-                                  fontSize: 12,
-                                  fontWeight: FontWeight.w400,
-                                )),
+                            child: Text(
+                              resource.source,
+                              style: GoogleFonts.lato(
+                                fontSize: 12,
+                                fontWeight: FontWeight.w400,
+                              ),
+                              maxLines: 1,
+                              overflow: TextOverflow.ellipsis,
+                            ),
                           )
                         : const SizedBox()
                   ],
