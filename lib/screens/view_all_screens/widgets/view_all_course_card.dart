@@ -170,12 +170,15 @@ class ViewAllCourseCard extends StatelessWidget {
                       ),
                     ),
                     resource.source != null
-                        ? Text(resource.source,
-                            style: GoogleFonts.lato(
-                              fontSize: 12,
-                              fontWeight: FontWeight.w400,
-                            ))
-                        : SizedBox()
+                        ? SizedBox(
+                            width: MediaQuery.of(context).size.width / 1.5,
+                            child: Text(resource.source,
+                                style: GoogleFonts.lato(
+                                  fontSize: 12,
+                                  fontWeight: FontWeight.w400,
+                                )),
+                          )
+                        : const SizedBox()
                   ],
                 )
               ],
