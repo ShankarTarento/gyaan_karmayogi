@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/shankarganesh/.pub-cache/git/pdf_viewer-48660e6c24f8174340bfd7b8ba8d9fdbb8ae485f/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/shankarganesh/.pub-cache/git/pdf_viewer-48660e6c24f8174340bfd7b8ba8d9fdbb8ae485f/android/src/debug/jniLibs"/></dataSet></merger>

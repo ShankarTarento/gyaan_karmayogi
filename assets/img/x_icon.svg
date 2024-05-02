@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Combined Shape</title>
+    <g id="UI-Elements-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Elements" transform="translate(-611, -355)" fill="#1B2133">
+            <path d="M627,355 C618.164795,355 611,362.164795 611,371 C611,379.835205 618.164795,387 627,387 C635.835205,387 643,379.835205 643,371 C643,362.164795 635.835205,355 627,355 Z M619.041714,363 L625.66037,371.824915 L619,379 L620.499101,379 L626.330377,372.717964 L631.041714,379 L636.142857,379 L629.151655,369.678787 L635.351162,363 L633.852061,363 L628.481936,368.785452 L624.142857,363 L619.041714,363 Z M621.246206,364.101035 L623.589648,364.101035 L633.938077,377.898965 L631.594635,377.898965 L621.246206,364.101035 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

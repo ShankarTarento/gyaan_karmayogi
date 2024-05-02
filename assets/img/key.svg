@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>key_black_24dp</title>
+    <g id="Assesst-for-download-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Skeleton-Review-see-all" transform="translate(-315, -513)">
+            <g id="key_black_24dp" transform="translate(315, 513)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M21,10 L12.65,10 C11.83,7.67 9.61,6 7,6 C3.69,6 1,8.69 1,12 C1,15.31 3.69,18 7,18 C9.61,18 11.83,16.33 12.65,14 L13,14 L15,16 L17,14 L19,16 L23,11.96 L21,10 Z M7,15 C5.35,15 4,13.65 4,12 C4,10.35 5.35,9 7,9 C8.65,9 10,10.35 10,12 C10,13.65 8.65,15 7,15 Z" id="Shape" fill="#1B4CA1" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

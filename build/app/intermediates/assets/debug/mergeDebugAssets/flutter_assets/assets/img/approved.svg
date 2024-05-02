@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/others/approved</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/others/approved">
+            <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+            <g id="Group" transform="translate(1.000000, 1.000000)">
+                <path d="M11,0 C4.928,0 0,4.928 0,11 C0,17.072 4.928,22 11,22 C17.072,22 22,17.072 22,11 C22,4.928 17.072,0 11,0 Z" id="Shape" fill="#1D8923"></path>
+                <path d="M16.4315448,7.2783232 C16.8301158,6.89601504 17.4631436,6.90919875 17.8454517,7.30776984 C18.1983516,7.67568161 18.2142642,8.24336708 17.9011372,8.62922203 L17.8160051,8.7216768 L8.87941392,17.2936275 L4.29289322,12.7071068 C3.90236893,12.3165825 3.90236893,11.6834175 4.29289322,11.2928932 C4.65337718,10.9324093 5.22060824,10.9046797 5.61289944,11.2097046 L5.70710678,11.2928932 L8.908,14.493 L16.4315448,7.2783232 Z" id="Path-2" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

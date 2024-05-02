@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Av/play Copy</title>
+    <g id="UI-Elements-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Elements" transform="translate(-1346, -596)">
+            <g id="Icons/Av/play-Copy" transform="translate(1346, 596)">
+                <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M2.6,4.4 C2.27,4.4 2,4.67 2,5 L2,12.8 C2,13.46 2.54,14 3.2,14 L11,14 C11.33,14 11.6,13.73 11.6,13.4 C11.6,13.07 11.33,12.8 11,12.8 L3.8,12.8 C3.47,12.8 3.2,12.53 3.2,12.2 L3.2,5 C3.2,4.67 2.93,4.4 2.6,4.4 Z M12.8,2 L5.6,2 C4.94,2 4.4,2.54 4.4,3.2 L4.4,10.4 C4.4,11.06 4.94,11.6 5.6,11.6 L12.8,11.6 C13.46,11.6 14,11.06 14,10.4 L14,3.2 C14,2.54 13.46,2 12.8,2 Z M8,9.5 L8,4.1 L11.282,6.56 C11.444,6.68 11.444,6.92 11.282,7.04 L8,9.5 Z" id="Shape" fill="#F3962F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

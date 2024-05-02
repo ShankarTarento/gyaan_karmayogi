@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/shankarganesh/.pub-cache/hosted/pub.dev/pdf_render-1.4.0/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/shankarganesh/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/shankarganesh/.pub-cache/hosted/pub.dev/pdf_render-1.4.0/android/.cxx/Debug/6x1n5w1f/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/shankarganesh/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/shankarganesh/.pub-cache/hosted/pub.dev/pdf_render-1.4.0/android/.cxx/Debug/6x1n5w1f/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bbhelper::@6890427a1f51a3e7e1df": {
+      "artifactName": "bbhelper",
+      "abi": "x86",
+      "output": "/home/shankarganesh/PlayGround/igot_karmayogi_mobile/build/pdf_render/intermediates/cxx/Debug/6x1n5w1f/obj/x86/libbbhelper.so",
+      "runtimeFiles": []
+    }
+  }
+}

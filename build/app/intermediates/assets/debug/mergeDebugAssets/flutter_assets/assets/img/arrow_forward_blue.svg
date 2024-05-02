@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Misc/Coin Copy 3</title>
+    <g id="UI-Elements-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Elements" transform="translate(-1232, -594)">
+            <g id="Misc/Coin-Copy-3" transform="translate(1232, 594)">
+                <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Path" fill="#1B4CA1" points="12 4 10.59 5.41 16.17 11 4 11 4 13 16.17 13 10.59 18.59 12 20 20 12"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

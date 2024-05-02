@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/action/down_vote@2x</title>
+    <g id="05-Consumption---Mobile-V5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="15-Scanner-attendance-marking-1-Copy" transform="translate(-195, -375)">
+            <g id="Group" transform="translate(56, 359)">
+                <g id="Icons/action/down_vote" transform="translate(139, 16)">
+                    <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M12,2 C6.48,2 2,6.48 2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 Z M12,13 C11.45,13 11,12.55 11,12 L11,8 C11,7.45 11.45,7 12,7 C12.55,7 13,7.45 13,8 L13,12 C13,12.55 12.55,13 12,13 Z M13,17 L11,17 L11,15 L13,15 L13,17 Z" id="Shape" fill="#D13924"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
